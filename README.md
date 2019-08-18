@@ -1,12 +1,7 @@
-# Training the Image Classifier & Creating a Web App
-## Our example:  Food Images Classifier
-
-## Citation Note
-If you do use our blog or GitHub repos to create your own web or mobile app, we would appreciate it if you would give our work attribution by sharing the below citation:  
->Pattaniyil, Nidhin and Shaikh, Reshama, [Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/), 2019
+# Dog Classifier Application
 
 
-This project was completed jointly by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).
+This project was completed jointly by [Bourn23](https://www.github.com/bourn23) and [kDanesh] (mailto:kasradanesh68@gmail.com)
 
 The following were used for model **training** (see [requirements.txt](requirements.txt)):    
 - fastai:  version 1.0.42
@@ -29,7 +24,8 @@ The following were used for model **deployment**:
 ![Demo](assets/demo.gif)
 
 
- 
+## References
+>Pattaniyil, Nidhin and Shaikh, Reshama, [Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/), 2019
 
 
  
